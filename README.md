@@ -1,5 +1,5 @@
 
-# Tarefa State Pattern
+# Task State Pattern
 
 Este projeto implementa o **State Pattern** para gerenciar os diferentes estados de uma **Task** **(Tarefa)**. A Tarefa pode ter vários estados, e cada estado tem comportamentos diferentes para alterar o status da tarefa. O projeto também inclui testes unitários, que podem ser executados usando o comando `dotnet test` no terminal.
 
